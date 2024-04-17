@@ -1,7 +1,3 @@
-# Pep-8-coding-standards
-A document to learn pep 8 coding standards
-
-
 #  PEP 8 Standards with Examples
 
 Welcome to the PEP 8 Standards with Examples project! This repository is dedicated to creating a comprehensive sample of PEP 8 standards along with examples to illustrate each guideline. By providing clear examples, we aim to make it easier for Python developers to understand and adhere to the PEP 8 coding standards.
